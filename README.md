@@ -1,1 +1,1 @@
-A ecommerce project woth complete deployment using docker
+A ecommerce project with complete deployment using docker
